@@ -20,3 +20,5 @@
 4. Create your own Binder link / button: Go to https://mybinder.org/ and fill in your repository's details.
 
 5. Share the Binder link with your friends and the world.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paulhybryant/bamboolib.git/HEAD)
